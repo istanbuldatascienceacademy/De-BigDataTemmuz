@@ -6,12 +6,13 @@ Bu bölümde sizlere Apache Kafka, Apache Spark, Apache Airflow, Data Build Tool
 Data Engineering da kullanılan Google cloud teknolojiler
 Bu bölümde sizlere Google Cloud Platform, IAM, Cloud Storage, Cloud SQL, Compute Engine, Google BigQuery, Looker, Pub/Sub, Dataflow konularında dersler işleyip ve bazı konu başlıklarından ödevler vereceğiz. Ders esnasında canlı kod yazma pratikleriyle bu konuları pekiştireceğiz.
 
-Detaylı İçerik
+Detaylı İçerik:
+
 Linux
 Git & Github
 Python
 Pandas
-FastAPI
+
 SQL
 Docker
 Apache Kafka
