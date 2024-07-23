@@ -11,8 +11,10 @@ Detaylı İçerik:
 - Docker 
 - Apache Kafka 
 - Google Cloud Platform 
-- Google BigQuery Looker 
+- IAM, Cloud Storage, Cloud SQL, Compute Engine
+- Google BigQuery, Looker 
 - Pub/Sub & Dataflow 
+- DataProc, Composer
 - Apache Airflow 
 - Data Build Tool 
 - Cassandra 
