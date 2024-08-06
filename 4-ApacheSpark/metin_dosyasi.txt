@@ -1,0 +1,8 @@
+[I 2023-08-19 11:05:28.556 ServerApp] nbdime | extension was successfully loaded.
+[I 2023-08-19 11:05:28.572 ServerApp] notebook | extension was successfully loaded.
+[I 2023-08-19 11:05:28.573 ServerApp] Serving notebooks from local directory: /home/jovyan
+[I 2023-08-19 11:05:28.573 ServerApp] Jupyter Server 2.7.0 is running at:
+[I 2023-08-19 11:05:28.573 ServerApp] http://2280f2ea7fc6:8888/lab?token=ead22ed58384365cf07c6bbd850c3fc81eafcc99f66e40be
+[I 2023-08-19 11:05:28.573 ServerApp]  Spark   http://127.0.0.1:8888/lab?token=ead22ed58384365cf07c6bbd850c3fc81eafcc99f66e40be
+[I 2023-08-19 11:05:28.573 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-08-19 11:05:28.602 ServerApp]sadsadSpark sdfsd fsdf
