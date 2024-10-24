@@ -1,0 +1,3 @@
+Merhaba eğer bu yazıyı okuyabiliyorsan docker başarlı bir şekilde kurulmuştur. 
+Şimdi docker ile bir container oluşturup çalıştıralım. 
+İlk olarak docker hub üzerinde bulunan ubuntu imajını çekelim. Bunun için aşağıdaki komutu çalıştırın.
