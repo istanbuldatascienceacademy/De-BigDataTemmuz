@@ -1,5 +1,6 @@
 Project Overview:
-You areee a Data Engineer at Y Company.
+
+You are a Data Engineer at Y Company.
 
 This capstone project aims to build a robust data engineering pipeline that ingests real-time data streams, processes them, and stores them in a data warehouse. 
 The processed data can then be used for real-time analytics and business intelligence.
